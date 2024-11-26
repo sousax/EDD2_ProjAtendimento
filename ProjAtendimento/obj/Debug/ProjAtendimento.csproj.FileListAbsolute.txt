@@ -1,0 +1,10 @@
+C:\Users\Eduardo\source\repos\ProjAtendimento\ProjAtendimento\bin\Debug\ProjAtendimento.exe.config
+C:\Users\Eduardo\source\repos\ProjAtendimento\ProjAtendimento\bin\Debug\ProjAtendimento.exe
+C:\Users\Eduardo\source\repos\ProjAtendimento\ProjAtendimento\bin\Debug\ProjAtendimento.pdb
+C:\Users\Eduardo\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\ProjAtendimento.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\ProjAtendimento.Form1.resources
+C:\Users\Eduardo\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\ProjAtendimento.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\ProjAtendimento.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\ProjAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\ProjAtendimento.exe
+C:\Users\Eduardo\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\ProjAtendimento.pdb
